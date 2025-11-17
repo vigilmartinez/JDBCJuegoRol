@@ -1,2 +1,5 @@
-# JDBCJuegoRol
-A small test project using JDBC to manage a SQL database of roleplaying game
+# Características principales
+✓ CRUD completo de usuarios
+✓ Conexión a base de datos MySQL
+✓ Arquitectura en capas (DAO)
+✓ Manejo de transacciones
